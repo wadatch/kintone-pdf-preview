@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/kintone/js-sdk/%40kintone/plugin-manifest-validator%4010.2.0/packages/plugin-manifest-validator/manifest-schema.json",
+  "manifest_version": 1,
+  "version": 1,
+  "type": "APP",
+  "desktop": {
+    "js": [
+      "js/desktop.js"
+    ],
+    "css": [
+      "css/51-modern-default.css",
+      "css/desktop.css"
+    ]
+  },
+  "icon": "image/icon.png",
+  "name": {
+    "en": "preview"
+  },
+  "description": {
+    "en": "preview"
+  }
+}

@@ -1,0 +1,6 @@
+.DS_Store
+.bash_profile
+package-lock.json
+private.ppk
+dist/*
+node_modules/
