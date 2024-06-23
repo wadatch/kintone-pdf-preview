@@ -83,6 +83,7 @@
 
             // canvas要素を作成
             const canvas = document.createElement('canvas');
+            canvas.id = 'pdf-canvas-' + pageNum;
             modal.appendChild(canvas);
             document.body.appendChild(modal);
 
